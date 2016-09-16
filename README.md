@@ -7,4 +7,4 @@ This github repository serves as a place to report problems with Delaware govern
 
 ## How to use this
 
-If you saw an issue with a DE government website, copy the URL into a github issue on this repository and tag it with `bug` `usability issue` or `out of date information`. We'll talk with the approprate party in the Delaware government and investigate the issue.
+If you saw an issue with a DE government website, copy the URL into a [new github issue](https://github.com/OpenDataDE/DE-gov-bugs/issues/new) (you will need a github account) on this repository and tag it with `bug` `usability issue` or `out of date information`. We'll talk with the approprate party in the Delaware government and investigate the issue.
