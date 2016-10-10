@@ -9,7 +9,7 @@ Below is a simple template for reporting bugs on DE Gov Bugs. Simply copy and pa
 
 **Issue Description:** *A brief description of the issue you are reporting*
 
-**URL:** *The URL(s) of the page(s) exhibiting the problem you are reporting
+**URL:** *The URL(s) of the page(s) exhibiting the problem you are reporting*
 
 **Steps to Reproduce:** *Step by step instructions for how you encountered the problem. Having clear instructions on how to reproduce a problem makes it easier to triage and fix it.*
 
